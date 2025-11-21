@@ -1,0 +1,12 @@
+/* assets/css/style.css */
+
+/* Puedes añadir estilos personalizados aquí para sobreescribir Bootstrap o añadir nuevos. */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
